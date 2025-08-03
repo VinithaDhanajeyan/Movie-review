@@ -89,10 +89,3 @@ This is a web app for **Sentiment Analysis** on IMDB-style movie reviews using a
 - 📂 Batch review prediction support  
 
 ---
-
-## 👨‍💻 Author
-
-**Divya Kumar**  
-[GitHub](https://github.com/divyakumars/) • [LinkedIn]([www.linkedin.com/in/divyakumar21](https://www.linkedin.com/in/divyakumar21/))
-
----
